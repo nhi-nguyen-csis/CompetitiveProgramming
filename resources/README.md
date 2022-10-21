@@ -111,3 +111,11 @@ https://chrome.google.com/webstore/detail/paint-tool-marker-for-chr/nadohmjilefn
 LeetHub - Automatically integrate your Leetcode submissions to GitHub
 
 https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi
+
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed 
+
+https://leetcode.com/discuss/study-guide/1691931/Beginner%27s-guide-on-interview-preparation
+
+https://github.com/seanprashad/leetcode-patterns
+
+https://liuzhenglaichn.gitbook.io/algorithm/
